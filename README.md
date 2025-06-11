@@ -46,7 +46,7 @@ The data is programmatically pulled from the [NBA API](https://github.com/swar/n
 
 3. Run the notebook:
    ```bash
-   jupyter notebook Final\ Project.ipynb
+   jupyter notebook nba_ml_pred.ipynb
    ```
 
 ## 📈 Model Details
