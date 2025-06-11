@@ -67,7 +67,7 @@ Cross-validation: **TimeSeriesSplit**
 
 ## 🙌 Authors
 
-- **Omar Elsegeiny** – omar.elsegeiny@ndsu.edu  
+- **Omar Elsegeiny** – omarelsegeiny@gmail.com  
 - **Xander Johnson** – xander.johnson@ndsu.edu
 
 ## 📘 References
